@@ -32,3 +32,17 @@ In this video, you can see how in the shortest possible time (under a minute) I 
 
 The method and method used in this software has never been published by me, and still no one has the ability to write a script smaller than this software, because I do not intend to make this method public at the moment, and I prefer users I myself should make the most of this method and get the most profit, because unfortunately, as you can see, there are some Telegram groups that are active in these fields, even though all the programs they publish and claim to be the programmers of that project After checking their code, you will find that many parts of their coding are copied from my worthless and old projects, which are no longer working, and it is very new for them, and they are deceiving themselves and their group members, but I don’t know. Why doesn’t anyone in those groups ask if they managed to find or break a wallet private key worth at least one cent or not… but unfortunately they are destroying me and my reputation in front of users, which is of no importance to me. Because of the number of successful users, I have become rich with my help And my software is much more than the members of their entire group, why should I make an effort to make a series of uneducated people famous in this field… My users know me and know that the power in my projects is the maximum meaning. It arrives and that’s it.
 
+
+Read More Detail's About MDCrack : [Link](https://mmdrza.com/mdcrack-the-ultimate-tool-for-cracking-private-keys/)
+
+
+Download MDCrack : [Link](https://mmdrza.com/product/mdcrack/)
+
+Programmer & owner : [PyMmdrza](https://t.me/MrPyMmdrza)
+
+Telegram Channel : [Cryptoixer](https://t.me/cryptoixer)
+
+Official Website : [MMDRZA.COM](https://mmdrza.com)
+
+
+
