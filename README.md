@@ -29,7 +29,7 @@ So why wait? Head over to our online store today and purchase MDCrack. Whether y
 Video & Screen Record From MDCrack:
 In this video, you can see how in the shortest possible time (under a minute) I managed to break the private key of a bitcoin wallet address belonging to one of the customers.
 
-![Video: Screen Record From MDCrack](https://videopress.com/v/GMKaAEFn)
+[Video: Screen Record From MDCrack](https://videopress.com/v/GMKaAEFn)
 
 ### Algorithm and Method in MDCRACK:
 
